@@ -1,0 +1,6 @@
+<script>
+
+fruta = 2   
+matriz= ["Maça","Pera","Melão","Melancia"];
+    document.write(matriz[fruta]);
+</script>
